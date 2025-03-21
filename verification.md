@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Verification
 ---
+.
 # Verification
 Be sure to have EFE open at the start of your shift so that you can verify info quickly. You can access EFE from the menu in IEP. The quickest way to find a customer's account is by searching by email. If it does't get results, use any of the other options in the tool. Your results may vary.
 
