@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Choose what you need below:
+**Choose what you need below:**
 
 ## Investigate
 - Verification
