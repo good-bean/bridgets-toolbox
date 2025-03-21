@@ -1,6 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: "Bridget's Toolbox"
-description: "A collection of guides on what you have already learned, as well as some insight on some aspects of the job."
+title: Bridget's Toolbox
+description: A collection of guides on what you have already learned, as well as some insight on some aspects of the job.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
