@@ -5,7 +5,7 @@ layout: default
 **Choose what you need below:**
 
 ## Investigate
-- Verification
+- [Verification](verification.md)
 - Screenshare
 - When to transfer
 
